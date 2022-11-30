@@ -18,7 +18,6 @@
 * [HNS coin economics](about-handshake/handshake-coin.md)
 * [Community](about-handshake/handshake-community.md)
 * [Mining HNS](about-handshake/mining-hns.md)
-* [Handshake Github](https://github.com/handshake-org)
 
 ## Development
 
@@ -40,11 +39,9 @@
 
 ## Namebase <a href="#about-namebase" id="about-namebase"></a>
 
-* [Vision and mission](about-namebase/vision-and-mission/README.md)
-  * [About Namebase](https://namebase.io/about)
+* [Vision and mission](about-namebase/vision-and-mission.md)
 * [Private naming](about-namebase/private-naming.md)
 * [Transferring entities](about-namebase/transferring-entities.md)
 * [Verifying](about-namebase/verifying.md)
 * [Revenue streams](about-namebase/revenue-streams.md)
 * [Security](about-namebase/security.md)
-* [Namebase Github](https://github.com/namebasehq)

@@ -93,3 +93,7 @@ Handshake names are their own root of trust and have their TLS keys pinned to th
 ## More
 
 [The starting point of Internet interaction: a comprehensive explanation of the Handshake mechanism design of the decentralized naming system](https://blockcast.cc/news/the-starting-point-of-internet-interaction-a-comprehensive-explanation-of-the-handshake-mechanism-design-of-the-decentralized-naming-system/?amp) written by Andrew Lee, a co-founder of Handshake.
+
+{% embed url="https://github.com/handshake-org" %}
+Handshake Github
+{% endembed %}

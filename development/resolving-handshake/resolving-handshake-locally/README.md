@@ -7,7 +7,7 @@ description: >-
 # Resolving Handshake locally
 
 {% hint style="info" %}
-If you're just looking to access Handshake names as an end-user, visit our [Community documentation here](../../starting-from-zero/how-to-access-handshake-sites).
+If you're just looking to access Handshake names as an end-user, visit our [Community documentation here](../../../starting-from-zero/how-to-access-handshake-sites.md).
 {% endhint %}
 
 ## Step 1: Set up a Handshake client
@@ -27,7 +27,5 @@ Run the full node - see [hsd-dev.org](https://hsd-dev.org/)
 {% content-ref url="setting-your-operating-system-dns.md" %}
 [setting-your-operating-system-dns.md](setting-your-operating-system-dns.md)
 {% endcontent-ref %}
-
-
 
 ####

@@ -47,7 +47,7 @@ Handshake decentralizes the Internet by shifting control of the root zone file a
 
 ![](<.gitbook/assets/Namebase Super Long.png>)
 
-[Namebase](about-namebase/vision-and-mission/) is an onramp for Handshake. We did _not_ create Handshake, but just like you, we are [Directors of Handshake](about-handshake/handshake-community.md#help-drive-handshake-adoption). Our goal is to make Handshake easy-to-use to enable mass adoption, and you can use our platform to easily [buy](starting-from-zero/buy-hns.md) and sell HNS as well as [bid on](starting-from-zero/how-to-get-a-name.md), purchase, [sell](starting-from-zero/how-to-use-handshake-names.md#sell-your-name), and [use](starting-from-zero/how-to-use-handshake-names.md) Handshake names.
+[Namebase](about-namebase/vision-and-mission.md) is an onramp for Handshake. We did _not_ create Handshake, but just like you, we are [Directors of Handshake](about-handshake/handshake-community.md#help-drive-handshake-adoption). Our goal is to make Handshake easy-to-use to enable mass adoption, and you can use our platform to easily [buy](starting-from-zero/buy-hns.md) and sell HNS as well as [bid on](starting-from-zero/how-to-get-a-name.md), purchase, [sell](starting-from-zero/how-to-use-handshake-names.md#sell-your-name), and [use](starting-from-zero/how-to-use-handshake-names.md) Handshake names.
 
 ## Getting started
 
