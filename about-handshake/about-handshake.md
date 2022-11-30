@@ -18,7 +18,7 @@ Every peer in the Handshake network cryptographically validates and manages the 
 
 ## True name ownership
 
-![](<../.gitbook/assets/Why rent when you can own smaller black.png>)
+![](<../.gitbook/assets/Why rent when you can own smaller black (1).png>)
 
 In the existing internet infrastructure, no one actually owns their name. Namespaces are controlled by centralized organizations such as ICANN, Verisign, Facebook, Twitter, and Google, who can delete and take away your domain, name, account, and/or identity at will.
 

@@ -18,11 +18,9 @@
 * [HNS coin economics](about-handshake/handshake-coin.md)
 * [Community](about-handshake/handshake-community.md)
 * [Mining HNS](about-handshake/mining-hns.md)
-* [Stats](https://www.namebase.io/stats)
-* [Handshake whitepaper](https://namebase.io/handshake-whitepaper)
 * [Handshake Github](https://github.com/handshake-org)
 
-## Development <a href="#development" id="development"></a>
+## Development
 
 * [Getting started](development/getting-started.md)
 * [Traditional website](development/traditional-website.md)
