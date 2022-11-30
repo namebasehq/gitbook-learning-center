@@ -1,8 +1,6 @@
 # Table of contents
 
 * [从这里开始](README.md)
-* [贡献者](contributors.md)
-* [反馈意见](https://namebase.canny.io/learning-center)
 
 ## 从零开始 <a href="#starting-from-zero" id="starting-from-zero"></a>
 
