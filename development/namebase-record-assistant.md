@@ -117,5 +117,3 @@ If the user attempts to set records for a name they do not own, they will be pre
 If your users are looking to update content, simply repeat the process. We hope this article was helpful, and helps you create engaging applications for your users.
 
 To see an example application that utilizes this flow and the record assistant, check out [dWord](http://dword.johnxu.hns.to/), an app built by John Xu for the Namebase hackathon.
-
-If you have any questions about this process, please don't hesitate to get in touch by reaching out to: [jake@namebase.io](mailto:jake@namebase.io?subject=Request%20for%20help%20with%20domain%20record%20assistant)

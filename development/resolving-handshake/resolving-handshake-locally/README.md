@@ -20,11 +20,7 @@ If you're just looking to access Handshake names as an end-user, visit our [Comm
 
 ### Option B: Run the full node
 
-Run the full node - please see section about running the name resolver
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+Run the full node - see [hsd-dev.org](https://hsd-dev.org/)
 
 ## Step 2: Update your DNS settings
 
