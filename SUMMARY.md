@@ -10,6 +10,7 @@
 * [Get Handshake names](starting-from-zero/how-to-get-a-name.md)
 * [Buy Handshake coins (HNS)](starting-from-zero/buy-hns.md)
 * [Buy Wrapped HNS (WHNS)](starting-from-zero/buy-wrapped-hns-whns.md)
+* [Transferring HNS & Names](starting-from-zero/transferring-entities.md)
 
 ## Handshake <a href="#about-handshake" id="about-handshake"></a>
 
@@ -22,10 +23,9 @@
 
 * [Vision and mission](about-namebase/vision-and-mission.md)
 * [Private naming](about-namebase/private-naming.md)
-* [Transferring entities](about-namebase/transferring-entities.md)
 * [Verifying](about-namebase/verifying.md)
-* [Revenue streams](about-namebase/revenue-streams.md)
 * [Security](about-namebase/security.md)
+* [Revenue streams](about-namebase/revenue-streams.md)
 
 ## Development
 
