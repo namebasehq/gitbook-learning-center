@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Introduction](README.md)
 
 ## How to <a href="#starting-from-zero" id="starting-from-zero"></a>
 
@@ -16,26 +16,7 @@
 * [About Handshake](about-handshake/about-handshake.md)
 * [Name minting auction](about-handshake/handshake-auction.md)
 * [HNS coin economics](about-handshake/handshake-coin.md)
-* [Community](about-handshake/handshake-community.md)
 * [Mining HNS](about-handshake/mining-hns.md)
-
-## Development
-
-* [Getting started](development/getting-started.md)
-* [Traditional website](development/traditional-website.md)
-* [Decentralized website](development/decentralized-website.md)
-* [Building a decentralized blog](development/building-a-decentralized-blog-on-handshake.md)
-* [Decentralized login](development/handshake-login/README.md)
-  * [Handshake-based OIDC Authentication Protocol](development/handshake-login/handshake-based-oidc-authentication-protocol.md)
-  * [Using Handshake Login](development/handshake-login/using-handshake-login.md)
-  * [Handshake Login Implementation Guide](development/handshake-login/oidc.md)
-* [Resolving Handshake](development/resolving-handshake/README.md)
-  * [HNS.to](development/resolving-handshake/hns.to.md)
-  * [HDNS.io](development/resolving-handshake/hdns.io.md)
-  * [Resolving Handshake locally](development/resolving-handshake/resolving-handshake-locally/README.md)
-    * [Setting up the light client](development/resolving-handshake/resolving-handshake-locally/setting-up-the-light-client.md)
-    * [Setting your Operating System DNS](development/resolving-handshake/resolving-handshake-locally/setting-your-operating-system-dns.md)
-* [Namebase Record Assistant](development/namebase-record-assistant.md)
 
 ## Namebase <a href="#about-namebase" id="about-namebase"></a>
 
@@ -45,3 +26,21 @@
 * [Verifying](about-namebase/verifying.md)
 * [Revenue streams](about-namebase/revenue-streams.md)
 * [Security](about-namebase/security.md)
+
+## Development
+
+* [Developer Guides](development/guides/README.md)
+  * [Traditional website](development/guides/traditional-website.md)
+  * [Decentralized website](development/guides/decentralized-website.md)
+  * [Decentralized blog](development/guides/building-a-decentralized-blog-on-handshake.md)
+  * [Decentralized login](development/guides/handshake-login/README.md)
+    * [Handshake-based OIDC Authentication Protocol](development/guides/handshake-login/handshake-based-oidc-authentication-protocol.md)
+    * [Using Handshake Login](development/guides/handshake-login/using-handshake-login.md)
+    * [Handshake Login Implementation Guide](development/guides/handshake-login/oidc.md)
+* [Resolving Handshake](development/resolving-handshake/README.md)
+  * [HNS.to](development/resolving-handshake/hns.to.md)
+  * [HDNS.io](development/resolving-handshake/hdns.io.md)
+  * [Resolving Handshake locally](development/resolving-handshake/resolving-handshake-locally/README.md)
+    * [Setting up the light client](development/resolving-handshake/resolving-handshake-locally/setting-up-the-light-client.md)
+    * [Setting your Operating System DNS](development/resolving-handshake/resolving-handshake-locally/setting-your-operating-system-dns.md)
+* [Namebase Record Assistant](development/namebase-record-assistant.md)

@@ -2,19 +2,17 @@
 description: Welcome to the Namebase Learning Center!
 ---
 
-# Welcome
+# Introduction
 
-Welcome to the Namebase Learning Center! You'll find resources dedicated to Handshake and Namebase here. Feel free to use, copy, and share the information as you please!
+You'll find resources dedicated to Handshake and Namebase here. Feel free to use, copy, and share the information as you please!
 
 {% embed url="https://youtu.be/8I82AFjVJfE" %}
 
 ## Handshake
 
-![](<.gitbook/assets/Handshake LinkedIn.png>)
+![Own your name on the Internet](<.gitbook/assets/Handshake LinkedIn.png>)
 
-> Own your name on the Internet
-
-As part of the decentralized web movement, [our community](https://community.namebase.io) is taking the Internet back from the handful of corporations who currently own it and placing it into the hands of the people by dismantling ICANN's monopoly on top-level domains (.com, .org, .io are all top-level domains controlled by ICANN).&#x20;
+As part of the decentralized web movement, our community is taking the Internet back from the handful of corporations who currently own it and placing it into the hands of the people by dismantling ICANN's monopoly on top-level domains (.com, .org, .io are all top-level domains controlled by ICANN).&#x20;
 
 When you attempt to visit a website like [https://namebase.io](https://namebase.io), your browser will first need to figure out how to get to .io's servers.&#x20;
 
@@ -47,7 +45,7 @@ Handshake decentralizes the Internet by shifting control of the root zone file a
 
 ![](<.gitbook/assets/Namebase Super Long.png>)
 
-[Namebase](about-namebase/vision-and-mission.md) is an onramp for Handshake. We did _not_ create Handshake, but just like you, we are [Directors of Handshake](about-handshake/handshake-community.md#help-drive-handshake-adoption). Our goal is to make Handshake easy-to-use to enable mass adoption, and you can use our platform to easily [buy](starting-from-zero/buy-hns.md) and sell HNS as well as [bid on](starting-from-zero/how-to-get-a-name.md), purchase, [sell](starting-from-zero/how-to-use-handshake-names.md#sell-your-name), and [use](starting-from-zero/how-to-use-handshake-names.md) Handshake names.
+[Namebase](about-namebase/vision-and-mission.md) is an onramp for Handshake. We did _not_ create Handshake, but just like you, we are Directors of Handshake. Our goal is to make Handshake easy-to-use to enable mass adoption, and you can use our platform to easily [buy](starting-from-zero/buy-hns.md) and sell HNS as well as [bid on](starting-from-zero/how-to-get-a-name.md), purchase, [sell](starting-from-zero/how-to-use-handshake-names.md#sell-your-name), and [use](starting-from-zero/how-to-use-handshake-names.md) Handshake names.
 
 ## Getting started
 
