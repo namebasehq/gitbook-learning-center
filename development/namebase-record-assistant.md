@@ -106,7 +106,7 @@ This same process is how we implemented the content upload flow for dLinks, and 
 
 At this point, the user is asked to confirm the records you're asking to have set. Should they click confirm, a JSON request is sent to Namebase's servers, and their domain is updated. They are then redirected to the specified `REDIRECT_URL`.
 
-![What your users will see](<../.gitbook/assets/image (2).png>)
+![What your users will see](<../.gitbook/assets/development-image (2).png>)
 
 {% hint style="info" %}
 If the user attempts to set records for a name they do not own, they will be presented with an error screen letting them know that they do not own the domain they're attempting to set records for.

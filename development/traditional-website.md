@@ -16,18 +16,18 @@ You can also follow this guide to use your own nameserver: [Setting up a Handsha
 
 Once you've set up your Handshake website, follow this guide to learn how to resolve them on any of your devices.
 
-{% content-ref url="guides-1/resolving-handshake-1/" %}
-[resolving-handshake-1](guides-1/resolving-handshake-1/)
+{% content-ref url="development/resolving-handshake/" %}
+[development/resolving-handshake](development/resolving-handshake/)
 {% endcontent-ref %}
 
 ## Hosting providers
 
-Many hosting providers such as Vercel, Heroku, and GitHub Pages work with Handshake names. Community members have documented how to use many of them in our general [Learning Center](https://learn.namebase.io/starting-from-zero/how-to-create-a-handshake-website).
+Many hosting providers such as Vercel, Heroku, and GitHub Pages work with Handshake names. Community members have documented how to use many of them in our general [Learning Center](starting-from-zero/how-to-create-a-handshake-website).
 
 If a hosting provider doesn't support Handshake, it's most likely because they have a verification step for custom domains that checks if the custom domain is a valid ICANN domain. In that case, we recommend writing to the hosting provider to relax their verification so that Handshake domains work as well. This is what was done in the case of Vercel.
 
 ## HTTPS
 
-One of Handshake's primary goals is to replace CAs with a more secure blockchain-based root of trust. [This article](https://www.namebase.io/blog/meet-handshake-decentralizing-dns-to-improve-the-security-of-the-internet/) provides an overview of the concept, and community members have documented how to set up HTTPS websites using Handshake in our [Learning Center](https://learn.namebase.io/starting-from-zero/how-to-create-a-handshake-website#https).
+One of Handshake's primary goals is to replace CAs with a more secure blockchain-based root of trust. [This article](https://www.namebase.io/blog/meet-handshake-decentralizing-dns-to-improve-the-security-of-the-internet/) provides an overview of the concept, and community members have documented how to set up HTTPS websites using Handshake in our [Learning Center](starting-from-zero/how-to-create-a-handshake-website#https).
 
 Note that end-user configuration is necessary to visit Handshake HTTPs sites until browsers support it natively. A client app can be created to make this configuration easier in the meantime but such an app doesn't currently exist (if you're interested in making this let the [community](https://community.namebase.io/) know!).&#x20;

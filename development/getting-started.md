@@ -1,20 +1,17 @@
 ---
 description: >-
-  This guide is for developers looking to build apps using Handshake. You will
+  These guides are for developers looking to build apps using Handshake. You will
   learn how to build four different types of applications from start to finish.
 ---
 
-# Getting started
+# Getting started with Handshake
 
 {% hint style="info" %}
 Are you looking for Handshake protocol docs? Check out [hsd-dev.org](https://hsd-dev.org/)
 {% endhint %}
 
-{% hint style="info" %}
-Not a developer or new to Handshake? Check out the [Namebase Learning Center](https://learn.namebase.io) for tips on how to get started with Handshake, and use your Handshake domains without code.
-{% endhint %}
 
-## Overview of Handshake
+## Overview
 
 > Handshake is a decentralized, permissionless naming protocol where every peer is validating and in charge of managing the root DNS naming zone with the goal of creating an alternative to existing Certificate Authorities and naming systems.\
 > Source: Handshake Whitepaper
