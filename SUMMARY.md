@@ -24,7 +24,6 @@
 
 ## Namebase <a href="#about-namebase" id="about-namebase"></a>
 
-* [Namebase's 2021 roadmap](https://news.namebase.io/post/2925)
 * [Vision and mission](about-namebase/vision-and-mission/README.md)
   * [About Namebase](https://namebase.io/about)
 * [Private naming](about-namebase/private-naming.md)
@@ -32,5 +31,4 @@
 * [Verifying](about-namebase/verifying.md)
 * [Revenue streams](about-namebase/revenue-streams.md)
 * [Security](about-namebase/security.md)
-* [FAQ](https://namebase.io/faq)
 * [Namebase Github](https://github.com/namebasehq)
