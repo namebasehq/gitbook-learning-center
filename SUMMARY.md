@@ -22,6 +22,25 @@
 * [Handshake whitepaper](https://namebase.io/handshake-whitepaper)
 * [Handshake Github](https://github.com/handshake-org)
 
+## Development <a href="#development" id="development"></a>
+
+* [Getting started](development/getting-started.md)
+* [Traditional website](development/traditional-website.md)
+* [Decentralized website](development/decentralized-website.md)
+* [Decentralized login](development/handshake-login/README.md)
+  * [Handshake-based OIDC Authentication Protocol](development/handshake-login/handshake-based-oidc-authentication-protocol.md)
+  * [Using Handshake Login](development/handshake-login/using-handshake-login.md)
+  * [Handshake Login Implementation Guide](development/handshake-login/oidc.md)
+* [Decentralized social apps](development/decentralized-social-apps.md)
+* [Resolving Handshake](development/resolving-handshake/README.md)
+  * [HNS.to](development/resolving-handshake/hns.to.md)
+  * [HDNS.io](development/resolving-handshake/hdns.io.md)
+  * [Resolving Handshake locally](development/resolving-handshake/resolving-handshake-locally/README.md)
+    * [Setting up the light client](development/resolving-handshake/resolving-handshake-locally/setting-up-the-light-client.md)
+    * [Setting your Operating System DNS](development/resolving-handshake/resolving-handshake-locally/setting-your-operating-system-dns.md)
+* [Building a decentralized blog on Handshake](development/building-a-decentralized-blog-on-handshake.md)
+* [Namebase Record Assistant](development/namebase-record-assistant.md)
+
 ## Namebase <a href="#about-namebase" id="about-namebase"></a>
 
 * [Vision and mission](about-namebase/vision-and-mission/README.md)
