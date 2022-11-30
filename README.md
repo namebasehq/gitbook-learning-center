@@ -28,9 +28,3 @@ En cambio, los TLD se distribuyen a través de subastas públicas y transparente
 
 [Namebase](about-namebase/vision-and-mission.md) es una vía de acceso para Handshake. _No_ creamos Handshake, pero al igual que vosotros, somos [Directores de Handshake](https://handshake.org/community/). Nuestro objetivo es hacer que Handshake sea fácil de usar para permitir la adopción masiva, y puedes usar nuestra plataforma para [comprar](como-hacer/buy-hns.md) y vender HNS fácilmente, así como [pujar](como-hacer/how-to-get-a-name.md), comprar, [vender](como-hacer/how-to-use-handshake-names.md#sell-your-name) y [usar](como-hacer/how-to-use-handshake-names.md) nombres de Handshake.
 
-{% hint style="info" %}
-Si tienes información o recursos sobre Handshake que no se encuentran en el Centro de aprendizaje, comunícate con[ johnnywu/](https://hns.to/johnnywu/) en la [Comunidad Namer](https://discord.gg/V3aTrkp) o por correo electrónico a johnny@namebase.io para ayudar a compartir el conocimiento.&#x20;
-
-Si no pudistes encontrar lo que estabas buscando o encontrastes errores tipográficos y mala información, háznoslo saber [aquí](https://feedback.namebase.io/learning-center).
-{% endhint %}
-
