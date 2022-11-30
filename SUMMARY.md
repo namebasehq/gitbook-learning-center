@@ -2,8 +2,6 @@
 
 * [Bienvenidos](README.md)
 * [Comunidad Handshake](comunidad-handshake.md)
-* [Deja tu feedback](https://namebase.canny.io/learning-center)
-* [Handshake & Namebase logos](https://drive.google.com/drive/folders/1jd8imtm\_tkEh8g8wmo7ppbn2wVle5bme)
 
 ## CÓMO... <a href="#como-hacer" id="como-hacer"></a>
 
