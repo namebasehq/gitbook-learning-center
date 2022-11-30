@@ -14,8 +14,8 @@ As an example, visit [niccarter/](https://niccarter.hns.to) to see [Nic Carter](
 
 Follow this guide to create a decentralized blog using Skynet and Handshake&#x20;
 
-{% content-ref url="development/building-a-decentralized-blog-on-handshake.md" %}
-[building-a-decentralized-blog-on-handshake.md](development/building-a-decentralized-blog-on-handshake.md)
+{% content-ref url="building-a-decentralized-blog-on-handshake.md" %}
+[building-a-decentralized-blog-on-handshake.md](building-a-decentralized-blog-on-handshake.md)
 {% endcontent-ref %}
 
 ## IPFS

@@ -27,7 +27,7 @@ There are two key differences between typical OIDC usage and OIDC usage with Han
 1. Rather than asking the user to provide a password for a specified username, the Authorization Server asks them to sign a challenge using the public key pinned to the specified Handshake name.
 2. There is no centralized authority that performs this signature verification. Google is the only authority that can validate Google usernames and passwords. With Handshake, any Authorization Server can perform the verification.
 
-![Sequence diagram outlining the OIDC Authentication flow with Handshake](<../.gitbook/assets/Sequence diagram.png>)
+![Sequence diagram outlining the OIDC Authentication flow with Handshake](<../../.gitbook/assets/Sequence diagram.png>)
 
 {% hint style="info" %}
 We provide an open-source OIDC Authentication Server here: [https://github.com/namebasehq/handshake-oidc](https://github.com/namebasehq/handshake-oidc)

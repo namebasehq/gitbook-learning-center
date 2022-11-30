@@ -7,7 +7,7 @@ description: >-
 # Resolving Handshake locally
 
 {% hint style="info" %}
-If you're just looking to access Handshake names as an end-user, visit our [Community documentation here](starting-from-zero/how-to-access-handshake-sites).
+If you're just looking to access Handshake names as an end-user, visit our [Community documentation here](../../starting-from-zero/how-to-access-handshake-sites).
 {% endhint %}
 
 ## Step 1: Set up a Handshake client

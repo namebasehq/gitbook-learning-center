@@ -1,7 +1,6 @@
 ---
 description: >-
-  These guides are for developers looking to build apps using Handshake. You will
-  learn how to build four different types of applications from start to finish.
+  These guides are for developers looking to build apps using Handshake.
 ---
 
 # Getting started with Handshake

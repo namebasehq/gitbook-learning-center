@@ -26,7 +26,7 @@ HNS.to is a simple gateway that doesn't require local software or configuration.
 
 ### NextDNS.io
 
-NextDNS.io is a privacy-focused DNS resolver that blocks ads and trackers in addition to supporting Handshake. NextDNS requires that you enable Handshake in the settings to work. Follow this [guide](starting-from-zero/how-to-access-handshake-sites#nextdns) to set up NextDNS with Handshake on your devices.
+NextDNS.io is a privacy-focused DNS resolver that blocks ads and trackers in addition to supporting Handshake. NextDNS requires that you enable Handshake in the settings to work. Follow this [guide](../../starting-from-zero/how-to-access-handshake-sites#nextdns) to set up NextDNS with Handshake on your devices.
 
 ## Local Resolution
 
