@@ -85,12 +85,12 @@ These records are the same as ICANN domains. They are provided by the nameserver
 These records include (but not limited to): A, AAAA, CNAME, DS, MX, NS, TLSA, TXT.
 
 # Adding DNS records to domains in Namebase
-## On-Chain Records
-### GLUE4 and NS
 
-To add a nameserver using an IP address you need to specify the subdomain domain that you would like the glue record to be added to in addition to the IP address.
-Namebase makes this easy by providing one record for both glue and NS records.
-For example, to add a nameserver record to the `ns1` subdomain with IP address `44.231.6.183` (this is the default Namebase nameserver) you would add the first line as below:
+## On-Chain Records
+### GLUE4
+
+To add a Nameserver using an IP address you need to use a GLUE4 record.
+For example, to add a nameserver record for GLUE4 with IP address `44.231.6.183` (this is the default Namebase nameserver) you would add the first line as below:
 
 ![](../.gitbook/assets/glue-records.png?raw=true)
 
