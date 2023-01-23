@@ -6,6 +6,7 @@
 
 * [Create Handshake websites](starting-from-zero/how-to-create-a-handshake-website.md)
 * [Use Handshake names](starting-from-zero/how-to-use-handshake-names.md)
+* [Handshake DNS](starting-from-zero/how-to-add-DNS-records.md)
 * [Access Handshake names](starting-from-zero/how-to-access-handshake-sites.md)
 * [Get Handshake names](starting-from-zero/how-to-get-a-name.md)
 * [Buy Handshake coins (HNS)](starting-from-zero/buy-hns.md)
