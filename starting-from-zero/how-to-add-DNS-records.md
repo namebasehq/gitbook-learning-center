@@ -113,6 +113,7 @@ Adding TXT records is as easy as typing the contents of the record. This is show
 ![](../.gitbook/assets/txt-records.png?raw=true)
 
 ## Off-Chain Records
+To add Off-Chain records you must have at least 1 ns records pointing to `44.231.6.183`
 ### Common Records
 
 Adding A, AAAA, CNAME, and ALIAS records to the TLD is quite easy. The below image shows the format in case you get stuck.
