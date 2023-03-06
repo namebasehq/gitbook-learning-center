@@ -32,7 +32,7 @@ The mining fees that are charged for bid placements are paid to the miners who a
 
 ## Marketplace
 
-The Namebase Marketplace makes it easy to [sell](../starting-from-zero/how-to-use-handshake-names.md#sell-your-name) or purchase owned Handshake names. We charge a 3% commission fee to sellers that is only collected when your name successfully sells.
+The Namebase Marketplace makes it easy to [sell](../starting-from-zero/how-to-use-handshake-names.md#sell-your-name) or purchase owned Handshake names. We charge a 10% commission fee to sellers that is only collected when your name successfully sells.
 
 ## Namebase Registry
 
