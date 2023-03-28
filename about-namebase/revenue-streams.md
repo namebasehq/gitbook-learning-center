@@ -36,6 +36,6 @@ The Namebase Marketplace makes it easy to [sell](../starting-from-zero/how-to-us
 
 ## Namebase Registry
 
-The [Namebase Registry](https://www.namebase.io/registry/) is a service that enables you to sell 2nd-level domains on your Handshake TLD. We partnered with the creator of the .io registry to create this service that is compatible with existing registrars, making it easy to plug directly into their existing distribution channels. We essentially handle all of the logistics regarding the sale of your domains, while you just handle the actual pricing of your domains and your marketing kit. The Namebase Registry operates on a revenue-sharing model — after a $1 processing fee, 70% of proceeds go to the TLD owner and 30% go to Namebase.
+The [Namebase Registry](https://www.namebase.io/registry/) is a service that enables you to sell 2nd-level domains on your Handshake TLD. We created an EPP-based registry platform that is compatible with all existing domain registrars, making it easy to plug directly into their existing distribution channels. We essentially handle all of the logistics regarding the sale of your domains, while you just handle the actual pricing of your domains and your marketing. The Namebase Registry charges only $1 per registration year for SLDs while the rest of the proceeds go directly to the TLD owner.
 
-[Learn more about the registry here](https://news.namebase.io/post/1143).
+[Learn more about the registry here](https://support.namebase.io/en/collections/3733627-namebase-registry).
