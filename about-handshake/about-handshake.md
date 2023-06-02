@@ -52,7 +52,7 @@ Handshake names can be virtually anything, from English letters and decimal numb
 
 ### Existing domains
 
-All of the \~1,500 TLDs that already exist in the ICANN root zone (e.g. .com, .org, .io) are reserved for backwards-compatibility, and can be claimed by the owners of those names. This means that you can use Handshake domains without disrupting usual access to traditional domains like .com. Additionally, the top 100,000 most visited websites as determined by [Alexa](https://www.alexa.com/topsites) are also reserved for their owners (e.g. [bitcoin/](https://www.namebase.io/domains/bitcoin) on Handshake is set aside for the owner of bitcoin.com, and [google/](http://namebase.io/domains/google) is set aside for Google). You can [see the full list of already claimed Handshake names on dns.live](https://dns.live/topclaim-clean.html).&#x20;
+All of the \~1,500 TLDs that already exist in the ICANN root zone (e.g. .com, .org, .io) are reserved for backwards-compatibility, and can be claimed by the owners of those names. This means that you can use Handshake domains without disrupting usual access to traditional domains like .com. Additionally, the top 100,000 most visited websites as determined by [Alexa](https://www.alexa.com/topsites) are also reserved for their owners (e.g. [bitcoin/](https://www.namebase.io/domains/bitcoin) on Handshake is set aside for the owner of bitcoin.com, and [google/](http://namebase.io/domains/google) is set aside for Google). You can [see the full list of already claimed Handshake names on handshake.rsvp](https://handshake.rsvp).&#x20;
 
 If you own an Alexa top 100k website, you can use [these instructions](https://hsd-dev.org/guides/claims.html) to claim your name.
 
