@@ -12,13 +12,13 @@ Use [this](../starting-from-zero/buy-hns.md#buy-hns-with-btc) guide to transfer 
 
 ### From another HNS wallet&#x20;
 
-You can transfer HNS from another wallet directly to your Namebase wallet using the address on your [dashboard](https://www.namebase.io/dashboard). Due to the current volatility in Handshake's hash rate, Namebase confirms HNS deposits after 20 blocks, which typically takes 3-4 hours. Namebase will decrease the number of blocks needed to confirm deposits as the hash rate increases and stabilizes.
+You can transfer HNS from another wallet directly to your Namebase wallet by using the Deposit address on your [dashboard](https://www.namebase.io/dashboard). Due to the current volatility in Handshake's hash rate, Namebase confirms HNS deposits after 20 blocks, which typically takes 3-4 hours. Namebase will decrease the number of blocks needed to confirm deposits as the hash rate increases and stabilizes.
 
 ## Transfer out HNS
 
-If you're outside of the USA, you can use [Namebase Pro](https://www.namebase.io/pro) to transfer out your HNS — please note HNS transfers currently take 20 block confirmations to complete.
+You can use the Withdraw button on your dashboard to transfer your HNS to an external wallet. Some restrictions may apply, such as daily withdrawal limits, and restrictions for new accounts. If you're inside the USA, you must complete KYC in order to withdraw HNS.
 
-If you're inside the USA, unfortunately due to regulations you're currently unable to transfer out your HNS though you can always sell it for BTC or USD.
+If you're outside of the USA, you can also use [Namebase Pro](https://www.namebase.io/pro) to transfer out your HNS — please note HNS transfers currently take 20 block confirmations to complete.
 
 ## Transfer in Handshake names
 
