@@ -36,6 +36,9 @@ Mining fees are paid to the miners who add your transactions to the Handshake bl
 
 Namebase's bidding service makes it possible for anyone to participate in [Handshake name auctions](../about-handshake/handshake-auction.md) without needing to be a developer. We do not currently charge any additional transactional fees for our bidding services.
 
+### Renewals
+
+Namebase currently renews all Handshake names on the platform automatically and free of charge. In the future a renewal fee will be required to be paid in HNS from your Namebase balance. We will notify all customers at least 120 days in advance of any change to renewal policy.
 
 ## Marketplace
 
