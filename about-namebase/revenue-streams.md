@@ -18,7 +18,7 @@ A common confusion with HNS pricing is when there's a noticeable (10%+) differen
 
 ### Namebase Pro
 
-[Namebase Pro](https://www.namebase.io/pro) can be used trade HNS for BTC using a traditional order book exchange similar to Binance and Coinbase Pro. (2% maker fee and 0% taker fee).
+[Namebase Pro](https://www.namebase.io/pro) can be used trade HNS for BTC using a traditional order book exchange similar to Binance and Coinbase Pro. (0% maker fee and 2% taker fee).
 
 {% hint style="info" %}
 Due to cryptocurrency regulations, Namers within the USA are currently unable to access Namebase Pro.
