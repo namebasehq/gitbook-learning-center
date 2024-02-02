@@ -14,28 +14,6 @@ You will need a Namebase account to purchase HNS through Namebase.io. If you hav
 This video covers how to purchase HNS with BTC
 {% endembed %}
 
-## Buy HNS with USD
-
-{% hint style="warning" %}
-Purchasing HNS with USD is currently limited to select US customers. We're working to enable USD access for all customers globally. In the meantime anyone can still [buy HNS with BTC](buy-hns.md#buy-hns-with-btc).
-{% endhint %}
-
-If you are a US citizen or person, the easiest way to purchase HNS will be directly with USD on Namebase, though you still have the option to purchase HNS with BTC.&#x20;
-
-Go to [https://www.namebase.io/buy](https://www.namebase.io/buy), click the drop down arrow next to “BUY WITH BTC”, and select "U.S. Dollars".&#x20;
-
-![](<../.gitbook/assets/Buy HNS with USD 1.png>)
-
-Click "Add a payment method", click "Continue", select your bank, and then complete your bank’s login procedures.&#x20;
-
-![](<../.gitbook/assets/Buy HNS with USD 2.png>)
-
-Input the amount of HNS you’d like to purchase, click "Buy HNS", and then confirm your order by clicking "Buy now".
-
-![](<../.gitbook/assets/Buy HNS with USD 3.png>)
-
-If you’d like to unlink your bank account, go to your [dashboard](https://www.namebase.io/dashboard), click USD in your wallet, and click Remove.
-
 ## Buy HNS with BTC
 
 Anyone can purchase HNS with BTC on Namebase, but you will have to first purchase Bitcoin on another platform to then transfer to your Namebase account. _While there are numerous ways to purchase BTC, we show you 2 methods below — using Coinbase and Cash App._

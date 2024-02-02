@@ -5,7 +5,8 @@ description: A walkthrough for getting Handshake TLDs through Namebase.io
 # Get Handshake names
 
 {% hint style="success" %}
-Want a free Handshake name to play with before fully committing? [Here's how to get a random one](https://help.namebase.io/article/xkmc3ftupd-getting-a-free-handshake-name).
+Want a free Handshake name to play with before fully committing? 
+Get a free Handshake name on our Discord server [here](https://discord.gg/V3aTrkp).
 {% endhint %}
 
 Make sure you fully understand how [Handshake auctions](../about-handshake/handshake-auction.md) work before bidding on Handshake names. You can check your understanding with [these case studies](../about-handshake/handshake-auction.md#case-studies).
