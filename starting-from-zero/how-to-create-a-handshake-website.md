@@ -8,9 +8,20 @@ One of the most straightforward use cases of Handshake names is to set up a webs
 
 ## Level 1 - No code
 
+### HNSHosting
+
+HNSHosting offers WordPress hosting on Handshake names deployed in minutes with HTTPS support.  
+Registering for free might be limited to users on their discord server.
+[https://hnshosting.au](https://hnshosting.au)
+
+{% hint style="info" %}
+This site was created soley by Namer [Nathan.Woodburn/](https://nathan.woodburn.au/).
+{% endhint %}
+
 ### dLinks
 
-[dLinks](https://namebase.io/dlinks) is a no-code way to instantly deploy a decentralized website to your Handshake name. See our dLink at [namebase/](https://namebase.hns.to).
+[dLinks](https://namebase.io/dlinks) is a no-code way to instantly deploy a decentralized website to your Handshake name. See our dLink at [namebase/](https://namebase.hns.to).  
+dLinks is powered by [Skynet](https://siasky.net/) which is a experimental decentralized CDN so it is likely to be slow and unreliable.
 
 {% embed url="https://www.namebase.io/dlinks" %}
 

@@ -20,7 +20,7 @@ Sign up for a Namebase account at [https://www.namebase.io/register](https://www
 
 ![](https://images.ctfassets.net/v3ez3dek3dk6/2wKi16OwIyw9gFwFJWJizg/4009512c5ea4a713b5f8df955ef5a9f1/image.png?fit=pad\&w=720)
 
-### Buy HNS credits
+### Buy HNS
 
 Purchase HNS name credits with [BTC](../starting-from-zero/buy-hns.md#buy-hns-with-btc) at [https://www.namebase.io/buy](https://www.namebase.io/buy). The HNS credits can be used to purchase Handshake names on the marketplace and to bid in Handshake name auctions, but it is important to understand that buying HNS credits does not give you the right to acquire any HNS or engage in any other transactions on Namebase until you submit [additional verification information](verifying.md). You can always complete account verification if you would like to acquire and transact with on-chain HNS.
 

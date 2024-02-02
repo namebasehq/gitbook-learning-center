@@ -10,7 +10,6 @@
 * [Access Handshake names](starting-from-zero/how-to-access-handshake-sites.md)
 * [Get Handshake names](starting-from-zero/how-to-get-a-name.md)
 * [Buy Handshake coins (HNS)](starting-from-zero/buy-hns.md)
-* [Buy Wrapped HNS (WHNS)](starting-from-zero/buy-wrapped-hns-whns.md)
 * [Transferring HNS & Names](starting-from-zero/transferring-entities.md)
 
 ## Handshake <a href="#about-handshake" id="about-handshake"></a>
@@ -18,7 +17,6 @@
 * [About Handshake](about-handshake/about-handshake.md)
 * [Name minting auction](about-handshake/handshake-auction.md)
 * [HNS coin economics](about-handshake/handshake-coin.md)
-* [Mining HNS](about-handshake/mining-hns.md)
 
 ## Namebase <a href="#about-namebase" id="about-namebase"></a>
 

@@ -99,8 +99,6 @@ When bidding on a name you really care about (e.g. your first+last name), we hig
 
 ## More
 
-Confirm your understanding of Handshake Auctions by taking this bidding quiz: [quiz.nb/](http://quiz.nb.hns.to).
-
-Check out this detailed writeup on Handshake Auctions and strategies by [blockdomains/](https://blockdomains.hns.to): [Thoughts On Hansdhake Top-Level Domain Market Dynamics](https://blockdomains.substack.com/p/thoughts-on-handshake-top-level-domain)
+Check out this detailed writeup on Handshake Auctions and strategies by blockdomains: [Thoughts On Hansdhake Top-Level Domain Market Dynamics](https://blockdomains.substack.com/p/thoughts-on-handshake-top-level-domain)
 
 Still not entirely sure how to proceed? Visit the [Namer Community Discord](https://discord.gg/V3aTrkp)’s [#auctions-and-marketplace ](https://discord.gg/9v5QP6r)channel to ask about and discuss bidding strategies. 

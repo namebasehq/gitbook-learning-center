@@ -63,7 +63,3 @@ Around 25 million HNS have been claimed through the developer airdrop, with the 
 | **TOTAL PREMINE**             | 458,000,000 HNS   | 40%              |
 | Available for mining          | 680,000,000 HNS   | 60%              |
 | **MAX POSSIBLE SUPPLY**       | 1,138,000,000 HNS | 100%             |
-
-## More
-
-Check out [pinheadmz/](https://hns.to/pinheadmz)'s [https://hns-contributor.dev/](https://hns-contributor.dev/) for a deeper dive into HNS tokenomics.
