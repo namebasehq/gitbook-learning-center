@@ -29,15 +29,10 @@ Due to regulatory reasons (we're not happy about it either), Namebase accounts a
 | **Deposit names**    | Yes            | Yes               | Yes                | Yes                    |
 | **Buy HNS with BTC** | Yes            | Yes               | Yes                | Yes                    |
 | **Sell HNS for BTC** | No             | No                | Yes                | Yes                    |
-| **Buy HNS with USD** | No             | Yes\*             | Yes\*              | No                     |
-| **Sell HNS for USD** | No             | No                | Yes                | No                     |
-| **Withdraw HNS**     | No             | No                | No                 | Yes                    |
+| **Withdraw HNS**     | No             | No                | Yes                 | Yes                    |
 | **Deposit HNS**      | Yes            | Yes               | Yes                | Yes                    |
-| **Namebase Pro**     | No             | No                | No                 | Yes                    |
-| **Wrap HNS**         | No             | No                | No                 | Yes                    |
-| **Unwrap HNS**       | Yes            | Yes               | Yes                | Yes                    |
+| **Namebase Pro**     | No             | No                | Yes                 | Yes                    |
 
-\*Unless you have a linked, US bank account.
 
 | Requirements                                                                                                            | **Unverified**   | **Verified (NY)**                 | **Verified (USA)**                | **Verified (non-USA)**            |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------------- | --------------------------------- | --------------------------------- |

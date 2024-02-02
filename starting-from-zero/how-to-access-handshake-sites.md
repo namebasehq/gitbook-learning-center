@@ -22,19 +22,19 @@ Try visiting welcome.nb/ by appending hns.to at the end of the domain: [welcome.
 
 #### Alternatives to HNS.to
 
-If HNS.to is down, [angrymouse/](http://angrymouse/) has created alternative gateways like [hns.is](https://hns.is) and [shaked.xyz](https://shaked.xyz).
+If HNS.to is down, you can use an alternative like [costanzo/](http://costanzo/)'s [rsvr.xyz](https://rsvr.xyz).
 
-[costanzo/](http://costanzo/) maintains another alternative at [rsvr.xyz](https://rsvr.xyz).
-
-### Puma mobile browser
-
-[Puma](https://pumabrowser.com) is a mobile browser created by [yurik/](http://yurik/) that currently uses HNS.to for resolving Handshake domains. Install the Puma browser app on your phone to access Handshake names in its search bar.
-
-{% embed url="https://www.pumabrowser.com/" %}
 
 ## Level 1
 
 Level 1 methods require trusting a central party to resolve Handshake for you, are not private because they can see which domains you're visiting, are less insecure than Level 0 methods because they aren't proxy gateways, and no longer require appending something to every Handshake domain.
+
+### HNSDoH
+
+[HNSDoH](https://welcome.hnsdoh.com) is a public DNS resolver created by [Nathan.Woodburn/](https://nathan.woodburn.au/) that uses DNS over HTTPS to resolve Handshake.  
+It has very little downtime compared to other public resolvers.
+
+{% embed url="https://welcome.hnsdoh.com" %}
 
 ### HDNS
 
@@ -78,12 +78,6 @@ Level 2 methods no longer require trusting a central party because you're access
 [Fingertip](https://impervious.com/fingertip.html) is an all-in-one open source resolver created by [Impervious](https://impervious.com) that sets up your browser for DANE and resolves Handshake trustlessly. Comes with HNSD light client installed.
 
 {% embed url="https://impervious.com/fingertip.html" %}
-
-### Beacon web browser
-
-[Beacon](https://impervious.com/beacon) is an open source Handshake-native web browser created by [Impervious](https://impervious.com/) that supports DANE and resolves Handshake trustlessly. Comes with HNSD light client installed.
-
-{% embed url="https://impervious.com/beacon" %}
 
 ## Level 3
 
