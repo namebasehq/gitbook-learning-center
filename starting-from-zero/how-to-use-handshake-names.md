@@ -49,6 +49,10 @@ The [Namebase Registry](../about-namebase/revenue-streams.md#namebase-registry) 
 
 ![](<../.gitbook/assets/Screen Shot 2021-04-13 at 01.25.29.png>)
 
+## Chat with other Namers
+
+HNSChat is a chat application that uses Handshake names as usernames. You can use it to chat with other Namers, and it's a great way to meet other people in the Handshake community. [Click here](https://hns.chat/) to start chatting now.
+
 ## More
 
 Check out [these tutorials](how-to-create-a-handshake-website.md) for creating websites on your Handshake name.
