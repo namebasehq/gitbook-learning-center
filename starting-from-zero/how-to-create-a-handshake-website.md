@@ -18,6 +18,15 @@ Registering for free might be limited to users on their discord server.
 This site was created soley by Namer [Nathan.Woodburn/](https://nathan.woodburn.au/).
 {% endhint %}
 
+### Excerpt
+
+Excerpt is a simple blog hosting platform that allows you to deploy a blog to your Handshake name in minutes.
+Find out more at [https://excerpt/](https://excerpt.hns.to).
+
+{% hint style="info" %}
+This site was created soley by Namer [e.skimo/](https://hns.to/e.skimo/).
+{% endhint %}
+
 ### dLinks
 
 [dLinks](https://namebase.io/dlinks) is a no-code way to instantly deploy a decentralized website to your Handshake name. See our dLink at [namebase/](https://namebase.hns.to).  
