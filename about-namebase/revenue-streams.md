@@ -38,7 +38,7 @@ Namebase's bidding service makes it possible for anyone to participate in [Hands
 
 ### Renewals
 
-Namebase currently renews all Handshake names on the platform automatically and free of charge. In the future a renewal fee will be required to be paid in HNS from your Namebase balance. We will notify all customers at least 120 days in advance of any change to renewal policy.
+Please see this [Domain Renewals](https://support.namebase.io/en/articles/8019613-domain-renewals) support document for the latest info about Renewal Fees.
 
 ## Marketplace
 
