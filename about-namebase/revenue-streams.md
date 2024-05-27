@@ -10,7 +10,7 @@ While Handshake is a non-profit movement, Namebase is a [VC-backed](https://www.
 
 While you may see [other exchanges](https://www.coingecko.com/en/coins/handshake) list HNS, Namebase is the only one fully focused on unlocking Handshake's potential.&#x20;
 
-**Namebase Consumer Exchange** can be used to [purchase HNS with BTC or USD](../starting-from-zero/buy-hns.md). We charge a 5% exchange fee for providing this liquidity and aim to price HNS with a spread of 1-3% depending on market conditions.
+**Namebase Consumer Exchange** can be used to [purchase HNS with BTC](../starting-from-zero/buy-hns.md). We charge a 5% exchange fee for providing this liquidity and aim to price HNS with a spread of 1-3% depending on market conditions.
 
 {% hint style="warning" %}
 A common confusion with HNS pricing is when there's a noticeable (10%+) difference between the spot price and the settlement price, which is mostly slippage and not spread. Our home page shows the spot price (when you look up the price of any coin, you’re always shown the spot price), but the actual buy/sell price will differ based on the live offers on the order book. Liquid markets like BTC have deep order books, so the spot price will be close to the price you get for standard order sizes. HNS is generally less liquid, so there’s more slippage. The price changes the more you buy, because there's not an unlimited amount of HNS to buy at the spot price. The best way to avoid slippage is to split up each order into smaller orders and spread them out so the market can adjust between trades. For example, instead of placing one $100k order you may want to place ten $10k purchases spread out over a couple days.
