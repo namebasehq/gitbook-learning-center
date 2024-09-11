@@ -55,4 +55,6 @@ The [Namebase Registry](../about-namebase/revenue-streams.md#namebase-registry) 
 
 The [Handshake Australia Mastodon instance](https://mastodon.hns.au) allows you to use your Handshake name as your identity. You can sign in with your Handshake name and use it as your handle.
 
+[Handypedia](https://handypedia.org/) is a wiki about Handshake. You can use your Handshake name to sign in and edit articles.
 
+[HNS Cloud](https://cloud.hns.au) is a cloud storage service hosted by [HNSAU](https://hns.au) that allows you to use your Handshake name as your identity.
