@@ -49,3 +49,11 @@ The Namebase Marketplace makes it easy to [sell](../starting-from-zero/how-to-us
 The [Namebase Registry](https://www.namebase.io/registry/) is a service that enables you to sell 2nd-level domains on your Handshake TLD. We created an EPP-based registry platform that is compatible with all existing domain registrars, making it easy to plug directly into their existing distribution channels. We essentially handle all of the logistics regarding the sale of your domains, while you just handle the actual pricing of your domains and your marketing. The Namebase Registry charges only $1 per registration year for SLDs while the rest of the proceeds go directly to the TLD owner.
 
 [Learn more about the registry here](https://support.namebase.io/en/collections/3733627-namebase-registry).
+
+
+## HNS.ID
+
+[HNS.ID](https://hns.id/) is a service that enabled you to sell decentralized 2nd-level domains on your Handshake TLD using the Optimism Layer 2 Ethereum network. We charge 5% of the registration fees for our [Handshake Development Fund](https://docs.hns.id/faq#what-is-the-handshake-dev-fund) and other related purposes.
+
+
+[Learn more about HNS.ID here](https://support.namebase.io/en/collections/8666069-hns-id).

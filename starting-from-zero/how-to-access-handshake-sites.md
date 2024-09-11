@@ -36,14 +36,6 @@ It has very little downtime compared to other public resolvers.
 
 {% embed url="https://welcome.hnsdoh.com" %}
 
-### HDNS
-
-[HDNS.io](https://hdns.io) is a public DNS resolver created by [namebase/](http://namebase/) that enables any device to access Handshake domains on any browser.
-
-Point your DNS to 103.196.38.38 and 103.196.38.39 to resolve Handshake.
-
-{% embed url="https://www.hdns.io/" %}
-
 ### Bob Extension
 
 [Bob Extension](https://chrome.google.com/webstore/detail/bob-extension/ogcmjchbmdichlfelhmceldndgmgpcem) is a Chrome extension created by [kyokan/](http://kyokan/) that currently uses HDNS.io for resolving Handshake names directly in your Chrome browser's search bar — try using it to search "[http://welcome.nb/](http://welcome.nb/)".&#x20;
