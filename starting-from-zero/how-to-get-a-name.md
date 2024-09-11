@@ -65,5 +65,5 @@ Read about how [Handshake auctions](../about-handshake/handshake-auction.md) wor
 
 Use [https://www.namebase.io/domain-manager](https://www.namebase.io/domain-manager) to keep track of all your domains
 
-Visit the [Namer Community](https://discord.gg/V3aTrkp)’s [#auctions-and-marketplace ](https://discord.gg/9v5QP6r)channel to ask about and discuss bidding strategies. 
+Visit the [Namer Community](https://discord.gg/V3aTrkp) to ask about and discuss bidding strategies. 
 

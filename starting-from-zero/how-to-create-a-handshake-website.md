@@ -27,12 +27,13 @@ Find out more at [https://excerpt/](https://excerpt.hns.to).
 This site was created soley by Namer [e.skimo/](https://hns.to/e.skimo/).
 {% endhint %}
 
-### dLinks
+### HNS Links
 
-[dLinks](https://namebase.io/dlinks) is a no-code way to instantly deploy a decentralized website to your Handshake name. See our dLink at [namebase/](https://namebase.hns.to).  
-dLinks is powered by [Skynet](https://siasky.net/) which is a experimental decentralized CDN so it is likely to be slow and unreliable.
+[HNS Links](https://links.hns.au/) is a no-code way to deploy a links page to your Handshake name. It is free and supports features such as HIP05 wallet addresses, NIP05 Nostr usernames, and more.
 
-{% embed url="https://www.namebase.io/dlinks" %}
+{% hint style="info" %}
+This site was created soley by Namer [Nathan.Woodburn/](https://nathan.woodburn.au/).
+{% endhint %}
 
 ### Vercel
 
