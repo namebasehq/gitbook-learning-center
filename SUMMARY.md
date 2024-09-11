@@ -38,7 +38,7 @@
     * [Handshake Login Implementation Guide](development/guides/handshake-login/oidc.md)
 * [Resolving Handshake](development/resolving-handshake/README.md)
   * [HNS.to](development/resolving-handshake/hns.to.md)
-  * [HDNS.io](development/resolving-handshake/hdns.io.md)
+  * [HNSDoH](development/resolving-handshake/hnsdoh.md)
   * [Resolving Handshake locally](development/resolving-handshake/resolving-handshake-locally/README.md)
     * [Setting up the light client](development/resolving-handshake/resolving-handshake-locally/setting-up-the-light-client.md)
     * [Setting your Operating System DNS](development/resolving-handshake/resolving-handshake-locally/setting-your-operating-system-dns.md)
