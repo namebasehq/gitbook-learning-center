@@ -16,12 +16,12 @@ HNS.to is a simple gateway that doesn't require local software or configuration.
 
 ## Public Handshake DNS Resolvers
 
-### HDNS.io
+### HNSDoH
 
-[HDNS.io](https://hdns.io) is a public DNS resolver that supports Handshake domains.&#x20;
+[HNSDoH](https://welcome.hnsdoh.com/) is a public DNS resolver that supports Handshake domains.
 
-{% content-ref url="hdns.io.md" %}
-[hdns.io.md](hdns.io.md)
+{% content-ref url="hnsdoh.md" %}
+[hnsdoh.md](hnsdoh.md)
 {% endcontent-ref %}
 
 ### NextDNS.io
