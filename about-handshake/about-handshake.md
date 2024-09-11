@@ -32,7 +32,7 @@ Handshake name owners have complete control over their data and can use their TL
 
 ![](<../.gitbook/assets/Life cycle of a name.png>)
 
-Handshake domain names provide true ownership, which means there are no yearly rental fees. Handshake TLD owners need only submit a biennial "heartbeat transaction" (a [mining fee](mining-hns.md)) to prove they still have access to their name. In the event a TLD owner loses access to their name and are unable to submit the RENEW transaction, said name will revert to the "auction-able names" pile. However, if you use Namebase you don't need to remember to perform these transactions because our system does this automatically for you.
+Handshake domain names provide true ownership, which means there are no yearly rental fees. Handshake TLD owners need only submit a biennial "heartbeat transaction" (costs a mining fee) to prove they still have access to their name. In the event a TLD owner loses access to their name and are unable to submit the RENEW transaction, said name will revert to the "auction-able names" pile. However, if you use Namebase you don't need to remember to perform these transactions because our system does this automatically for you.
 
 ## Endless top-level domains
 
