@@ -51,6 +51,8 @@ The [Namebase Registry](../about-namebase/revenue-streams.md#namebase-registry) 
 
 [HNS.ID](https://hns.id/) is a service that allows you to sell decentralized subdomains on your Handshake TLD by using the Optimism Layer 2 ethereum network. Second level domains are minted as NFTs and can be managed on the HNS.ID platform.
 
+![](<../.gitbook/assets/hnsid.png>)
+
 ## Use your name as your identity
 
 The [Handshake Australia Mastodon instance](https://mastodon.hns.au) allows you to use your Handshake name as your identity. You can sign in with your Handshake name and use it as your handle.
