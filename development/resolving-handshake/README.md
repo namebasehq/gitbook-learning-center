@@ -16,17 +16,13 @@ HNS.to is a simple gateway that doesn't require local software or configuration.
 
 ## Public Handshake DNS Resolvers
 
-### HDNS.io
+### HNSDoH
 
-[HDNS.io](https://hdns.io) is a public DNS resolver that supports Handshake domains.&#x20;
+[HNSDoH](https://welcome.hnsdoh.com/) is a public DNS resolver that supports Handshake domains.
 
-{% content-ref url="hdns.io.md" %}
-[hdns.io.md](hdns.io.md)
+{% content-ref url="hnsdoh.md" %}
+[hnsdoh.md](hnsdoh.md)
 {% endcontent-ref %}
-
-### NextDNS.io
-
-NextDNS.io is a privacy-focused DNS resolver that blocks ads and trackers in addition to supporting Handshake. NextDNS requires that you enable Handshake in the settings to work. Follow this [guide](../../starting-from-zero/how-to-access-handshake-sites#nextdns) to set up NextDNS with Handshake on your devices.
 
 ## Local Resolution
 

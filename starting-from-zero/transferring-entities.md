@@ -34,6 +34,6 @@ You can transfer your Handshake names to any HNS address by visiting your names'
 
 We handle name transfer requests in the same order of when they are submitted, so there may be a queue of up to 7 days before the TRANSFER transaction is sent for your name. In addition, there is an inherent 288 blocks that must past before we submit your FINALIZE transaction (this is a Handshake restrction, not a Namebase one), thus completing the name transfer. This may also take up to 7 days to process.
 
-There are inherent blockchain limitations for the number of TRANSFER and FINALIZE transactions we can submit each block, which you can read more about [here](../about-handshake/mining-hns.md#block-limits).
+There are inherent blockchain limitations for the number of TRANSFER and FINALIZE transactions we can submit each block, so we appreciate your patience as we work through the queue.
 
 ![](<../.gitbook/assets/Transfer this domain.png>)

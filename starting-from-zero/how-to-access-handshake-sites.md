@@ -36,14 +36,6 @@ It has very little downtime compared to other public resolvers.
 
 {% embed url="https://welcome.hnsdoh.com" %}
 
-### HDNS
-
-[HDNS.io](https://hdns.io) is a public DNS resolver created by [namebase/](http://namebase/) that enables any device to access Handshake domains on any browser.
-
-Point your DNS to 103.196.38.38 and 103.196.38.39 to resolve Handshake.
-
-{% embed url="https://www.hdns.io/" %}
-
 ### Bob Extension
 
 [Bob Extension](https://chrome.google.com/webstore/detail/bob-extension/ogcmjchbmdichlfelhmceldndgmgpcem) is a Chrome extension created by [kyokan/](http://kyokan/) that currently uses HDNS.io for resolving Handshake names directly in your Chrome browser's search bar — try using it to search "[http://welcome.nb/](http://welcome.nb/)".&#x20;
@@ -55,19 +47,6 @@ Point your DNS to 103.196.38.38 and 103.196.38.39 to resolve Handshake.
 [easyhandshake](https://easyhandshake.com) is a server created by [pinheadmz/](https://pinheadmz/) that you can use to resolve Handshake using DoH.
 
 {% embed url="https://matthewzipkin.medium.com/resolving-hns-names-using-dns-over-https-94643fe62ecd" %}
-
-### NextDNS
-
-"NextDNS protects you from all kinds of security threats, blocks ads and trackers on websites and in apps and provides a safe and supervised Internet for kids — on all devices and on all networks."
-
-1. Visit [nextdns.io](https://nextdns.io) and click "Try it now"
-2. Scroll down to the Setup Guide and pick any one of the given options (e.g. Private DNS, App, Ipv4) for your device, and follow the relevant guide provided by NextDNS
-3. Once your device is connected to NextDNS (confirm with green button at top of the setup page), visit the "Settings" tab on the NextDNS website and turn on "Resolve Handshake domains"
-4. Visit our Handshake welcome page at [http://welcome.nb/](http://welcome.nb/)!
-
-![](<../.gitbook/assets/Screen Shot 2020-11-20 at 01.09.32.png>)
-
-{% embed url="https://nextdns.io" %}
 
 ## Level 2
 

@@ -26,7 +26,7 @@ Lockup Amount = Bid Amount + Added Blind
 
 Your lockup is the sum of your bid and your blind. It's called a "lockup" because these coins are locked up until the auction ends. This is to prevent people from bidding more than they have and from spamming bids on names they don't want to actually purchase.
 
-It's worth emphasizing that only bids determine the auction winners — the blinds, which are completely optional, are disregarded. In other words, the **highest bid wins the auction, **_**not**_** the highest lockup**! Blinds can be helpful because they hide your bid and make it appear higher to others (only you can see your bid amount while others see only the lockup amount). You also receive your blind back right at the beginning of the reveal period, whereas your bid is returned only once the reveal period has ended.
+It's worth emphasizing that only bids determine the auction winners — the blinds, which are completely optional, are disregarded. In other words, the **highest bid wins the auction**, _not_ the **highest lockup**! Blinds can be helpful because they hide your bid and make it appear higher to others (only you can see your bid amount while others see only the lockup amount). You also receive your blind back right at the beginning of the reveal period, whereas your bid is returned only once the reveal period has ended.
 
 Your lockup cannot be changed after you submit it. You can submit additional lockups but any previous ones will remain locked up (e.g. if you submit two lockups of 1,000 HNS and 10,000 HNS, 11,000 HNS will be locked up for the duration of the auction).
 
@@ -99,6 +99,6 @@ When bidding on a name you really care about (e.g. your first+last name), we hig
 
 ## More
 
-Check out this detailed writeup on Handshake Auctions and strategies by blockdomains: [Thoughts On Hansdhake Top-Level Domain Market Dynamics](https://blockdomains.substack.com/p/thoughts-on-handshake-top-level-domain)
+Check out this detailed writeup on Handshake Auctions and strategies by blockdomains: [Thoughts On Handshake Top-Level Domain Market Dynamics](https://blockdomains.substack.com/p/thoughts-on-handshake-top-level-domain)
 
 Still not entirely sure how to proceed? Visit the [Namer Community Discord](https://discord.gg/V3aTrkp)’s [#auctions-and-marketplace ](https://discord.gg/9v5QP6r)channel to ask about and discuss bidding strategies. 

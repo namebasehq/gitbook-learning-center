@@ -49,10 +49,14 @@ The [Namebase Registry](../about-namebase/revenue-streams.md#namebase-registry) 
 
 ![](<../.gitbook/assets/Screen Shot 2021-04-13 at 01.25.29.png>)
 
-## Chat with other Namers
+[HNS.ID](https://hns.id/) is a service that allows you to sell decentralized subdomains on your Handshake TLD by using the Optimism Layer 2 ethereum network. Second level domains are minted as NFTs and can be managed on the HNS.ID platform.
 
-HNSChat is a chat application that uses Handshake names as usernames. You can use it to chat with other Namers, and it's a great way to meet other people in the Handshake community. [Click here](https://hns.chat/) to start chatting now.
+![](<../.gitbook/assets/hnsid.png>)
 
-## More
+## Use your name as your identity
 
-Check out [these tutorials](how-to-create-a-handshake-website.md) for creating websites on your Handshake name.
+The [Handshake Australia Mastodon instance](https://mastodon.hns.au) allows you to use your Handshake name as your identity. You can sign in with your Handshake name and use it as your handle.
+
+[Handypedia](https://handypedia.org/) is a wiki about Handshake. You can use your Handshake name to sign in and edit articles.
+
+[HNS Cloud](https://cloud.hns.au) is a cloud storage service hosted by [HNSAU](https://hns.au) that allows you to use your Handshake name as your identity.

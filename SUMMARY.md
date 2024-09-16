@@ -4,8 +4,8 @@
 
 ## How to <a href="#starting-from-zero" id="starting-from-zero"></a>
 
-* [Create Handshake websites](starting-from-zero/how-to-create-a-handshake-website.md)
 * [Use Handshake names](starting-from-zero/how-to-use-handshake-names.md)
+* [Create Handshake websites](starting-from-zero/how-to-create-a-handshake-website.md)
 * [Handshake DNS](starting-from-zero/how-to-add-DNS-records.md)
 * [Access Handshake names](starting-from-zero/how-to-access-handshake-sites.md)
 * [Get Handshake names](starting-from-zero/how-to-get-a-name.md)
@@ -38,7 +38,7 @@
     * [Handshake Login Implementation Guide](development/guides/handshake-login/oidc.md)
 * [Resolving Handshake](development/resolving-handshake/README.md)
   * [HNS.to](development/resolving-handshake/hns.to.md)
-  * [HDNS.io](development/resolving-handshake/hdns.io.md)
+  * [HNSDoH](development/resolving-handshake/hnsdoh.md)
   * [Resolving Handshake locally](development/resolving-handshake/resolving-handshake-locally/README.md)
     * [Setting up the light client](development/resolving-handshake/resolving-handshake-locally/setting-up-the-light-client.md)
     * [Setting your Operating System DNS](development/resolving-handshake/resolving-handshake-locally/setting-your-operating-system-dns.md)
